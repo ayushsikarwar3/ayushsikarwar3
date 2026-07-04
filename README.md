@@ -12,7 +12,7 @@
 
 - 🎓 ECE student passionate about **digital system design** , **hardware description languages**,**VLSI** & **CMOS Technology**
 - 🔭 Currently working on  — logic gates, ALUs, encoders/decoders
-- 🌱 Learning to bridge hardware design with software — improving my **C**, **Python** & **Verilog**skills
+- 🌱 Learning to bridge hardware design with software — improving my **C**,**Python** & **Verilog** skills
 - 💬 Ask me about digital logic design, combinational/sequential circuits, and HDL simulation
 - 📫 Reach me at **ayushsikarwar42@gmail.com**
 
