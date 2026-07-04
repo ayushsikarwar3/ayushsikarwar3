@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Ayush Sikarwar 👋</h1>
 
-<h3 align="center">Electronics & Communication Engineering Student | Digital System Design | Verilog & SystemVerilog</h3>
+<h3 align="center">Electronics & Communication Engineering Student | Digital System Design & VLSI | Verilog & SystemVerilog</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=500&lines=Digital+Logic+%26+Circuit+Design;Verilog+%2F+SystemVerilog+Enthusiast;Learning+C+%2B+Python;Always+Building+Something+New" alt="Typing SVG" />
@@ -10,9 +10,9 @@
 
 ### 🚀 About Me
 
-- 🎓 ECE student passionate about **digital system design** and **hardware description languages**
-- 🔭 Currently working on Verilog/SystemVerilog projects — logic gates, ALUs, encoders/decoders
-- 🌱 Learning to bridge hardware design with software — improving my **C** and **Python** skills
+- 🎓 ECE student passionate about **digital system design** , **hardware description languages**,**VLSI** & **CMOS Technology**
+- 🔭 Currently working on  — logic gates, ALUs, encoders/decoders
+- 🌱 Learning to bridge hardware design with software — improving my **C**, **Python** & **Verilog**skills
 - 💬 Ask me about digital logic design, combinational/sequential circuits, and HDL simulation
 - 📫 Reach me at **ayushsikarwar42@gmail.com**
 
@@ -24,7 +24,6 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Verilog-2C2C2C?style=for-the-badge&logo=v&logoColor=white" />
   <img src="https://img.shields.io/badge/SystemVerilog-1E3A5F?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/VHDL-4B0082?style=for-the-badge" />
 </p>
 
 **Digital & Circuit Design**
@@ -68,8 +67,6 @@
 | 🔗 [Logic Gates in Verilog](https://github.com/ayushsikarwar3) | Implementation and simulation of basic logic gates using Verilog |
 | 🔗 [ALU Design](https://github.com/ayushsikarwar3) | Arithmetic Logic Unit designed and verified in Verilog/SystemVerilog |
 | 🔗 [Encoder–Decoder](https://github.com/ayushsikarwar3) | Combinational encoder/decoder circuits with testbench verification |
-
-> Replace the links above with the direct URLs to each of your repos.
 
 ---
 
