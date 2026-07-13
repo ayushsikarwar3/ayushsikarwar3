@@ -94,7 +94,7 @@ I'm an ECE student focused on **digital system design, RTL development, and VLSI
 <td><code>Verilog</code></td>
 </tr>
 <tr>
-<td><a href="https://github.com/ayushsikarwar3/Flip-Flop-Counter-Design-Using-Verilog-HDL">Flip-Flop & Counter Design</a></td>
+<td><a href="https://github.com/ayushsikarwar3/4-Bit-Ripple-Carry-Adder-Using-Verilog-HD"</a>Design and Simulation of a 4-Bit Ripple Carry Adder Using Verilog HDL</td>
 <td>D, JK, SR, and T flip-flops plus multiple counter types</td>
 <td><code>Verilog</code></td>
 </tr>
