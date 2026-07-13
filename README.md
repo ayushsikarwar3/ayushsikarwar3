@@ -79,14 +79,14 @@ I'm an ECE student focused on **digital system design, RTL development, and VLSI
 <th align="left">Stack</th>
 </tr>
 <tr>
-<td><a href="https://github.com/ayushsikarwar3/Basic-ALU-Implementation">ALU Design</a></td>
+<td><a href="https://github.com/ayushsikarwar3/Basic-ALU-Implementation-">ALU Design</a></td>
 <td>4-bit Arithmetic Logic Unit, designed and verified end-to-end</td>
 <td><code>SystemVerilog</code></td>
 </tr>
 <tr>
 <td><a href="https://github.com/ayushsikarwar3/Logic-Gates-74xx-Hardware">Logic Gates Design</a></td>
 <td>Implementation and verification of digital logic gates using 74xx series ICs</td>
-<td><code>Verilog</code></td>
+<td><code>Hadware</code></td>
 </tr>
 <tr>
 <td><a href="https://github.com/ayushsikarwar3/Encoder-Decoder-Design">Encoder–Decoder</a></td>
