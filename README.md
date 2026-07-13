@@ -64,9 +64,9 @@
 
 | Project | Description |
 |---|---|
-| 🔗 [Logic Gates in Verilog](https://github.com/ayushsikarwar3) | Implementation and simulation of basic logic gates using Verilog |
-| 🔗 [ALU Design](https://github.com/ayushsikarwar3) | Arithmetic Logic Unit designed and verified in Verilog/SystemVerilog |
-| 🔗 [Encoder–Decoder](https://github.com/ayushsikarwar3) | Combinational encoder/decoder circuits with testbench verification |
+| 🔗 [Logic Gates Design](https://github.com/ayushsikarwar3/Logic-Gates-74xx-Hardware) | Implementation and simulation of basic logic gates using 74xx series ICs |
+| 🔗 [ALU Design](https://github.com/ayushsikarwar3/Basic-ALU-Implementation-) | Arithmetic Logic Unit designed and verified in Verilog/SystemVerilog |
+| 🔗 [Encoder–Decoder](https://github.com/ayushsikarwar3/Encoder-Decoder-Design) | Combinational encoder/decoder circuits with testbench verification |
 
 ---
 
