@@ -95,7 +95,7 @@ I'm an ECE student focused on **digital system design, RTL development, and VLSI
 </tr>
 <tr>
 <td><a href="https://github.com/ayushsikarwar3/4-Bit-Ripple-Carry-Adder-Using-Verilog-HD">4-Bit Ripple Carry Adder Using Verilog HDL</a></td>
-<td>>Design and Simulation of a 4-Bit Ripple Carry Adder Using Verilog HDL</td>
+<td>Design and Simulation of a 4-Bit Ripple Carry Adder Using Verilog HDL</td>
 <td><code>Verilog</code></td>
 </tr>
 </table>
