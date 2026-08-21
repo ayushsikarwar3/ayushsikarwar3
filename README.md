@@ -33,7 +33,7 @@ I'm an ECE student focused on **digital system design, RTL development, and VLSI
 <br>
 ![Verilog](https://img.shields.io/badge/Verilog-37474F?style=flat-square)
 ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-37474F?style=flat-square)
-![VHDL](https://img.shields.io/badge/VHDL%20(basics)-37474F?style=flat-square)
+
 
 **⚙️ Digital & Circuit Design**
 <br>
