@@ -81,7 +81,7 @@ I'm an ECE student focused on **digital system design, RTL development, and VLSI
 <tr>
 <td><a href="https://github.com/ayushsikarwar3/Basic-ALU-Implementation-">ALU Design</a></td>
 <td>4-bit Arithmetic Logic Unit, designed and verified end-to-end</td>
-<td><code>SystemVerilog</code></td>
+<td><code>Verilog</code></td>
 </tr>
 <tr>
 <td><a href="https://github.com/ayushsikarwar3/Logic-Gates-74xx-Hardware">Logic Gates Design</a></td>
